@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-## About Me
+
 - 14+ years in IT industry, expertise in end-to-end solution architecture spanning multiple platforms.
 - Persuing Master In Decision Analytics from VCU while employed fulltime at Genworth Financials.
 - Highly passionate about Data (Engineering, Science and Analytics) and its applications.
@@ -19,8 +19,9 @@ permalink: /about/
 * B.Tech 2003 NIFFT, Ranchi University.
 
 ## Roles
-
-Founder, ABC Organisation
+- Tech Lead / Design & Architecture Manager EDWM for Genworth Financials (Mar 2016 – Present)
+- Data Warehouse Consultant for State Farm Insurance (Jan 2012 – Mar 2016)
+- Refer to linkedin for more...
 
 ## Skills
 
@@ -41,10 +42,5 @@ Founder, ABC Organisation
     Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
-
-* [**This is my third achievement**](#) 
-
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
 
 ## Contact me
