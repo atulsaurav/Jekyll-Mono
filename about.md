@@ -3,18 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
-
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## About Me
+- 14+ years in IT industry, expertise in end-to-end solution architecture spanning multiple platforms.
+- Persuing Master In Decision Analytics from VCU while employed fulltime at Genworth Financials.
+- Highly passionate about Data (Engineering, Science and Analytics) and its applications.
+- Rapid prototyping with attention to performance and scalability to iteratively build a robust solution.
+- Expert in troubleshooting and performance tuning complex system.
+- Expertise with Relational, Hierarchical Databases and Big Data Analytics.
+- Lead multiple teams towards high quality, on-time delivery in enhancing business critical systems
+- Consistently looked up by peers and superiors for innovative out of the box solutions.
+- Love learning (perpetually) and implementing new technologies/ideas from scratch.
 
 ## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
+* MDA 2019, Virginia Commonwealth University.
+* B.Tech 2003 NIFFT, Ranchi University.
 
 ## Roles
 
@@ -24,11 +26,6 @@ Founder, ABC Organisation
 
 * **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
 * **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
     
 ## Achievements
 
